@@ -1,7 +1,8 @@
-package com.rosewhat.news
+package com.rosewhat.news.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.rosewhat.news.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
